@@ -1,0 +1,40 @@
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+.wrapper {}
+
+.content {}
+
+.hi {}
+
+.container {}
+
+.hi__row {}
+
+.hi__body {}
+
+.hi__title {}
+
+.hi__list {}
+
+.hi__image {}
+
+.footer {}
+
+.footer__row {}
+
+.footer__text {}
